@@ -1,6 +1,6 @@
 # PlantHealth.ai
 
-Sistema Inteligente de Deteccao de Doencas em Plantas usando Deep Learning e Transfer Learning
+Sistema Inteligente de Detecção de Doenças em Plantas usando Deep Learning e Transfer Learning
 
 [![Python](https://img.shields.io/badge/Python-3.10+-blue.svg)](https://www.python.org/)
 [![TensorFlow](https://img.shields.io/badge/TensorFlow-2.13+-orange.svg)](https://www.tensorflow.org/)
@@ -32,11 +32,11 @@ Sistema Inteligente de Deteccao de Doencas em Plantas usando Deep Learning e Tra
 
 ## Sobre o Projeto
 
-PlantHealth.ai e um sistema de classificacao automatica de doencas em plantas utilizando tecnicas avancadas de Deep Learning. O projeto implementa Transfer Learning com a arquitetura MobileNetV2 pre-treinada no ImageNet, permitindo identificar 16 classes diferentes de plantas saudaveis e doentes atraves da analise de imagens de folhas.
+PlantHealth.ai e um sistema de classificação automática de doencas em plantas utilizando técnicas avancadas de Deep Learning. O projeto implementa Transfer Learning com a arquitetura MobileNetV2 pre-treinada no ImageNet, permitindo identificar 16 classes diferentes de plantas saudaveis e doentes atraves da analise de imagens de folhas.
 
-### Motivacao
+### Motivação
 
-A deteccao precoce de doencas em plantas e crucial para:
+A detecção precoce de doencas em plantas e crucial para:
 - Prevenir perdas economicas na agricultura
 - Reduzir o uso de pesticidas
 - Aumentar a produtividade agricola
@@ -48,9 +48,9 @@ A deteccao precoce de doencas em plantas e crucial para:
 
 ### Funcionalidades Principais
 
-- Identificacao automatica de 16 classes de plantas e doencas
+- Identificação automática de 16 classes de plantas e doencas
 - Interface web interativa com Gradio
-- Inferencia rapida (< 100ms por imagem)
+- Inferência rapida (< 100ms por imagem)
 - Modelo leve e otimizado (~14 MB)
 - Funcionamento em CPU (nao requer GPU)
 
@@ -62,22 +62,22 @@ A deteccao precoce de doencas em plantas e crucial para:
 - Linguagem: Python 3.10+
 - Ambiente: Google Colab
 
-### Especificacoes Tecnicas
+### Especificações Técnicas
 
 - Input: Imagens RGB 96x96 pixels
 - Output: Probabilidades para 16 classes
 - Parametros: ~2.3M total (~65K treinaveis)
 - Tamanho: ~14 MB
 - Precisao: ~76% no conjunto de teste
-- Tempo de Inferencia: < 100ms
+- Tempo de Inferência: < 100ms
 
 ---
 
-## Demonstracao
+## Demonstração
 
 ### Interface Gradio
 
-A aplicacao oferece uma interface web simples e intuitiva:
+A aplicação oferece uma interface web simples e intuitiva:
 
 1. Upload de imagem da folha
 2. Analise automatica
@@ -121,7 +121,7 @@ Camadas Treinaveis (Custom Layers):
 - Dense(64): Features especificas do dominio
 - Dense(16): Classificacao final
 
-### Detalhes Tecnicos
+### Detalhes Técnicos
 
 | Componente | Especificacao |
 |------------|---------------|
@@ -136,7 +136,7 @@ Camadas Treinaveis (Custom Layers):
 
 ---
 
-## Instalacao
+## Instalação
 
 ### Prerequisitos
 
