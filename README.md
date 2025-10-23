@@ -384,13 +384,13 @@ CMD ["python", "app/gradio_app.py"]
 
 ## Contribuindo
 
-Contribuicoes sao muito bem-vindas!
+Contribuições são muito bem-vindas!
 
 ### Como Contribuir
 
 1. Fork o projeto
 2. Crie uma branch (`git checkout -b feature/NovaFeature`)
-3. Commit suas mudancas (`git commit -m 'Add: nova feature'`)
+3. Commit suas mudanças (`git commit -m 'Add: nova feature'`)
 4. Push para a branch (`git push origin feature/NovaFeature`)
 5. Abra um Pull Request
 
@@ -398,18 +398,18 @@ Contribuicoes sao muito bem-vindas!
 
 ## Roadmap
 
-### Versao 1.0 (Concluido)
-- [x] Implementacao basica do modelo
+### Versão 1.0 (Concluido)
+- [x] Implementação básica do modelo
 - [x] Interface Gradio funcional
 - [x] Documentacao completa
 
-### Versao 2.0 (Planejado)
+### Versão 2.0 (Planejado)
 - [ ] Adicionar mais classes de plantas (30+)
 - [ ] Implementar deteccao de multiplas doencas
 - [ ] Criar API REST com FastAPI
 - [ ] Dashboard de analytics
 
-### Versao 3.0 (Futuro)
+### Versão 3.0 (Futuro)
 - [ ] App mobile (Flutter/React Native)
 - [ ] Integracao com IoT
 - [ ] Sistema de recomendacao de tratamento
@@ -417,7 +417,7 @@ Contribuicoes sao muito bem-vindas!
 
 ---
 
-## Licenca
+## Licença
 
 Este projeto esta licenciado sob a Licenca MIT - veja o arquivo LICENSE para detalhes.
 
@@ -434,7 +434,7 @@ Ricardo Frugoni
 ---
 
 ## Agradecimentos
-- ❤️A minha amada esposa Flávia Ferreira, que me apoia nos meus etsudos e no meu trabalho, meu alicerce!♥️
+- ❤️A minha amada esposa Flávia Ferreira, que me apoia nos meus estudos e no meu trabalho, meu alicerce!♥️
 - PlantVillage Dataset: Dataset de alta qualidade
 - TensorFlow/Keras Team: Framework de Deep Learning
 - Gradio Team: Interface web intuitiva
@@ -443,7 +443,7 @@ Ricardo Frugoni
 
 ---
 
-## Citacoes
+## Citações
 
 ### PlantVillage Dataset
 
@@ -475,4 +475,4 @@ Este e um projeto educacional e de pesquisa. Para diagnosticos reais de doencas 
 
 ---
 
-Desenvolvido com dedicacao usando Transfer Learning e TensorFlow.
+Desenvolvido com dedicação usando Transfer Learning e TensorFlow.
