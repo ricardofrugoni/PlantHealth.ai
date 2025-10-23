@@ -434,7 +434,7 @@ Ricardo Frugoni
 ---
 
 ## Agradecimentos
-
+- ❤️A minha amada esposa Flávia Ferreira, que me apoia nos meus etsudos e no meu trabalho, meu alicerce!♥️
 - PlantVillage Dataset: Dataset de alta qualidade
 - TensorFlow/Keras Team: Framework de Deep Learning
 - Gradio Team: Interface web intuitiva
